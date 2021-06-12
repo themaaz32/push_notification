@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450781757822",
+    "project_id": "push-tutorial-c254d",
+    "storage_bucket": "push-tutorial-c254d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450781757822:android:b6fa688d37562c0e2df32f",
+        "android_client_info": {
+          "package_name": "com.easyapproach.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450781757822-1lscge6gv3c8l965dpn01vf6nk7d76kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPPj1Fh8o_78DSdbu_uxyG4hZLBuwoBaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450781757822-1lscge6gv3c8l965dpn01vf6nk7d76kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
